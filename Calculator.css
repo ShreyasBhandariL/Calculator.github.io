@@ -1,0 +1,195 @@
+*{
+    user-select: none;
+    
+}
+.hello{
+    background-color: rgb(223, 250, 250);
+    display: flex;
+   padding-top: 5%;
+}
+.index{
+    width: 40%;
+    background-color: rgb(223, 250, 250);
+    margin-left: 30%;
+    margin-top: 13%;
+      color: rgb(0, 0, 0);
+  text-shadow: 2px 2px 4px #100202;
+  font-size: 1.5rem;
+  box-shadow: 5px 5px 10px black;
+  padding-top: 1px;
+
+}
+.hi{
+    display:flex;
+    padding-top: 5%;
+}
+.cf{
+    display:flex;
+    padding-top: 5%;
+}
+.tea{
+    display:flex;
+    padding-top: 5%;
+}
+.a{
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 8%;
+    padding-top: 10px;
+    border: solid rgb(16, 13, 13);
+    margin-left: 6%;
+}
+.b{
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 8%;
+    padding-top: 10px;
+    border: solid black;
+    margin-left: 3%;
+}
+.c{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 8%;
+    padding-top: 10px;
+    border: solid black;
+    margin-left: 3%;
+}
+.d{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 8%;
+    padding-top: 10px;
+    border: solid black;
+    margin-left: 3%;
+    color:  rgb(38, 0, 255);
+}
+.e{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 8%;
+    padding-top: 10px;
+    border: solid black;
+    margin-left: 6%;
+}
+.f{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 8%;
+    padding-top: 10px;
+    border: solid black;
+    margin-left: 3%;
+}
+.g{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 8%;
+    padding-top: 10px;
+    border: solid black;
+    margin-left: 3%;
+}
+.h{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 8%;
+    padding-top: 10px;
+    border: solid black;
+    margin-left: 3%;
+    color:  rgb(38, 0, 255);
+}
+.i{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 8%;
+    padding-top: 10px;
+    border: solid black;
+    margin-left: 6%;
+}
+.j{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 8%;
+    padding-top: 10px;
+    border: solid black;
+    margin-left: 3%;
+}
+.k{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 8%;
+    padding-top: 10px;
+    border: solid black;
+    margin-left: 3%;
+}
+.l{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 8%;
+    padding-top: 10px;
+    border: solid black;
+    margin-left: 3%;
+    color:  rgb(38, 0, 255);
+}
+.m{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 8%;
+    padding-top: 10px;
+    border: solid black;
+    margin-left: 6%;
+    color:  rgb(38, 0, 255);
+}
+.n{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 8%;
+    padding-top: 10px;
+    border: solid black ;
+    margin-left: 3%;
+}
+.o{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 7%;
+    padding-top: 10px;
+    border: solid black;
+    margin-left: 3%;
+    color: rgb(38, 0, 255);
+}
+.p{
+    background-color:rgb(255, 255, 255);
+    margin-bottom: 2%;
+    padding-bottom: 10px;
+    padding-inline: 8%;
+    padding-top: 10px;
+    border: solid black;
+    margin-left: 3%;
+    color:  rgb(38, 0, 255);
+}
+.demo{
+    background-color: rgb(255, 255, 255);
+margin-left: 5%;
+margin-top: 5%;
+box-shadow: 9%;
+height: 40px;
+min-height: 40px;
+margin-right: 11%;
+color: black;
+box-shadow: inset 1px 1px 5px rgb(37, 37, 37);
+
+}
